@@ -7,3 +7,7 @@ First, run the development server:
 
 ```bash
 npm run dev
+
+## Live link :
+
+[finance-analyzer](https://financially-forward.vercel.app/sign-in?redirect_url=https%3A%2F%2Ffinancially-forward.vercel.app%2F)
